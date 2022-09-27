@@ -1,3 +1,6 @@
-hello! im Han.
+#BLOG
 
-nice to meet u :)
+Hello! I'm Han.
+Nice to meet u :)
+
+https://risingcurve.github.io/
